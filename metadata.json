@@ -1,0 +1,6 @@
+{
+  "name": "La Lengua como Sistema — Լեզուն որպես համակարգ",
+  "description": "Интерактивный учебный тренажер и экзамен по испанскому языку с армянским переводом, скрытием и раскрытием ответов и переводов.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
